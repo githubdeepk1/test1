@@ -1,0 +1,14 @@
+package kkkkk;
+
+public class llll {
+
+	public llll() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
